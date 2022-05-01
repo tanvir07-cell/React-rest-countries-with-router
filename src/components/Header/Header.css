@@ -1,0 +1,24 @@
+nav{
+    background:linear-gradient(to right,green,blue);
+    padding:1rem;
+}
+
+.container{
+display:flex;
+align-items:center;
+justify-content: space-between;
+max-width:1176px;
+margin:0 auto;
+}
+
+.container ul{
+    list-style: none;
+    display:flex;
+ 
+
+}
+.container ul li a{
+    color:#fff;
+    text-decoration: none;
+    margin-left:2rem;
+}
